@@ -40,11 +40,15 @@ git clone https://github.com/ChangFB/ABF
 cd ABF
 
 python ABF.py 
-
-
-## ✭ Sosmed ✭ ##
 ```
-YouTube   : DJ MUSIC JR7
-Instagram : DJ MUSIC JR7
-Whatsapp  : 0822-6131-0817
-Facebook  : Changcuters™✓
+
+
+### ╠══[Sosmed]
+
+╠══[Facebook✓
+
+╠══[ChangFB™]
+
+╠══[Whatsapp✓
+
+╠══[0822-6131-0817]
