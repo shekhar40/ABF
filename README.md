@@ -25,7 +25,7 @@ $ git clone https://github.com/ChangFB/ABF
 
 $ cd ABF
 
-$ python ABF.py 
+$ python2 ABF.py 
 
 ## MENU
 
@@ -35,11 +35,15 @@ $ python ABF.py
 
 ## ╠[ABF]LOGIN TOKEN ##
 ```
+rm -rf ABF
+
 git clone https://github.com/ChangFB/ABF
 
 cd ABF
 
-python ABF.py 
+git pull
+
+python2 ABF.py 
 ```
 
 
